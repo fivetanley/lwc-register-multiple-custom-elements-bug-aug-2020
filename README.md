@@ -65,7 +65,7 @@ export default class extends LightningElement {}
 ```
 
 ```html
-<!-- src/modules/custom/a/a.html -->
+<!-- src/modules/custom/b/b.html -->
 <template>
     This is the B component
 </template>
